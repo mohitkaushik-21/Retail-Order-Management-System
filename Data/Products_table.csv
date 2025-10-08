@@ -1,0 +1,11 @@
+product_id,product_name,product_code,category,unit_price,stock_quantity
+1,Bluetooth Speaker,SPK001,Electronics,1499.00,50
+2,Cotton T-Shirt,TSH001,Apparel,599.00,120
+3,LED Bulb Pack,BLB001,Home Utility,199.00,80
+4,Yoga Mat,YGM001,Fitness,899.00,40
+5,Stainless Bottle,BOT001,Kitchenware,499.00,60
+6,Wireless Mouse,MOU001,Electronics,899.00,70
+7,Running Shoes,SHO001,Apparel,2999.00,35
+8,Pressure Cooker,COO001,Kitchenware,1899.00,25
+9,Smartwatch,SWT001,Electronics,3499.00,30
+10,Notebook Set,NTB001,Stationery,149.00,100

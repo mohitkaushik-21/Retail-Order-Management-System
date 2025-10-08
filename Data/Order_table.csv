@@ -1,0 +1,21 @@
+order_id,order_date,customer_id,product_id,quantity,payment_method,order_status
+1,2025-10-01,1,1,2,UPI,Delivered
+2,2025-10-01,2,2,1,Credit Card,Delivered
+3,2025-10-02,3,3,3,Cash,Cancelled
+4,2025-10-02,4,4,1,Debit Card,Delivered
+5,2025-10-03,5,5,2,UPI,Returned
+8,2025-10-04,8,8,1,Cash,Delivered
+10,2025-10-05,10,10,5,UPI,Delivered
+11,2025-10-06,1,6,1,UPI,Delivered
+12,2025-10-06,2,7,2,Credit Card,Delivered
+13,2025-10-07,3,8,1,Cash,Delivered
+14,2025-10-07,4,9,1,Debit Card,Returned
+15,2025-10-08,5,10,3,UPI,Delivered
+16,2025-10-08,6,1,1,Credit Card,Delivered
+17,2025-10-09,7,2,2,UPI,Cancelled
+18,2025-10-09,8,3,1,Cash,Delivered
+19,2025-10-10,9,4,1,Debit Card,Delivered
+20,2025-10-10,10,5,2,UPI,Delivered
+6,2025-10-03,6,6,1,Credit Card,Returned
+7,2025-10-04,7,7,1,UPI,Returned
+9,2025-10-05,9,9,1,Debit Card,Returned

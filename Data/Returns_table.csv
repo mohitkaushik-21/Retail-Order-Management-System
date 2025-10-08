@@ -1,0 +1,6 @@
+return_id,order_id,return_date,reason,refund_status
+1,5,2025-10-06,Damaged item,Refunded
+2,3,2025-10-03,Wrong product,Not Refunded
+3,7,2025-10-07,Size issue,Refunded
+4,9,2025-10-08,Late delivery,Refunded
+5,6,2025-10-09,Changed mind,Not Refunded
