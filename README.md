@@ -8,28 +8,33 @@ This project showcases a complete workflow for analyzing retail sales data using
 ---
 
 ## 📁 Project Structure
-C:.
-│   README.md
+
+```
+Retail-Order-Management-System/
 │
-├───Dashboard
-├───Data
-│       Customers_table.csv
-│       import_csv_to_python.py
-│       Monthly_Orders_Volume.csv
-│       Order_table.csv
-│       Payment_Method_Breakdown.csv
-│       Products_table.csv
-│       Retail_Order_Management_Dashboard.xlsx
-│       Returns_table.csv
-│       Return_Rate_By_Product.csv
-│       Sales_by_Category.csv
-│       top_customers.csv
+├── Data/
+│   ├── Customers_table.csv
+│   ├── Order_table.csv
+│   ├── Products_table.csv
+│   ├── Returns_table.csv
+│   ├── Payment_Method_Breakdown.csv
+│   ├── Monthly_Orders_Volume.csv
+│   ├── Sales_by_Category.csv
+│   ├── top_customers.csv
+│   ├── Return_Rate_By_Product.csv
+│   └── import_csv_to_python.py
 │
-├───Excel
-│       Retail_Order_Management_Dashboard.xlsx
+├── Excel/
+│   └── Retail_Order_Management_Dashboard.xlsx
 │
-└───SQL
-        Retail_Order_Management_System.sql
+├── SQL/
+│   └── Retail_Order_Management_System.sql
+│
+├── Dashboard/
+│   └── Retail_Order_Management_Dashboard.xlsx
+│
+└── README.md
+```
 
 ---
 
